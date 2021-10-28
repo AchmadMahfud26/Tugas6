@@ -5,7 +5,7 @@
 ---
 <br>
 
-# *** ***
+# ** [Tugas 6](https://github.com/AchmadMahfud26/Tugas6/blob/main/Tugas%20Keliling%20dan%20Luas%20Lingkaran.py) **
 <p align="justify"> Berisi syntax menghitung Luas & Keliling dalam bahasa pemrograman python.
 
 - Import Math, berfungsi untuk melakukan proses Matematika.
